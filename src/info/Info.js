@@ -51,15 +51,17 @@ export const info = {
     ],
     socials: [
         {
+            link: "https://drive.google.com/file/d/1Zegh3IDzvuQD8qlrnrD4JExXHwtXB3FM/view?usp=sharing",
+            icon: 'fa fa-cloud-download',
+            label: 'cv'
+        },
+       
+        {
             link: "https://medium.com/@emretemir",
             icon: 'fa fa-medium',
             label: 'medium'
         },
-        {
-            link: "https://www.instagram.com/emretemirr/",
-            icon: 'fa fa-instagram',
-            label: 'instagram'
-        },
+       
         {
             link: "https://github.com/emretemirdev",
             icon: "fa fa-github",
