@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/emretemir.com/static/css/main.95d45f7b.css",
+    "main.js": "/emretemir.com/static/js/main.75db9f11.js",
+    "static/media/mock1.png": "/emretemir.com/static/media/mock1.cc671d416ce1b96cf9c0.png",
+    "static/media/mock2.png": "/emretemir.com/static/media/mock2.9daa8f62350d8f2e69a7.png",
+    "static/media/self.png": "/emretemir.com/static/media/self.e0f461abdfaf8f0cc3cf.png",
+    "static/media/mock5.png": "/emretemir.com/static/media/mock5.c9b5f54e8517e13fc897.png",
+    "static/media/mock3.png": "/emretemir.com/static/media/mock3.8624cffbb7ae4e742c4c.png",
+    "static/media/mock4.png": "/emretemir.com/static/media/mock4.2b2ba794bc5cd75eb2c1.png",
+    "index.html": "/emretemir.com/index.html",
+    "main.95d45f7b.css.map": "/emretemir.com/static/css/main.95d45f7b.css.map",
+    "main.75db9f11.js.map": "/emretemir.com/static/js/main.75db9f11.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.95d45f7b.css",
+    "static/js/main.75db9f11.js"
+  ]
+}
